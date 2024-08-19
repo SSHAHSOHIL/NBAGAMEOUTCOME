@@ -13,7 +13,7 @@ This branch contains the code that was used to web scrape the NBA 2023-2024 seas
 
 ## Model Testing
 
-This branch contains the code that uses specific machine learning techniques like XGboost, TimeSeriesSplit, and gsearch to optimize the model for future predictions. 
+This branch contains the code that uses specific machine learning techniques like XGboost, TimeSeriesSplit, and GridSearchCV to optimize the model for future predictions. 
 
 ## IN PROGRESS
 
