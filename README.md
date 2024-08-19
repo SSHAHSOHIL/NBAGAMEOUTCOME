@@ -9,7 +9,7 @@ This project utilizes Python, Pandas, and advanced machine learning techniques t
 
 ## Creating CSV Branch
 
-This branch contains the code that was used to web scrap the NBA 2023-2024 season data off the interent through Selenium. It also contains code that edits the season csv file creating factors like ELO, rolling averages, and form to increase the accuracy score through value predictors. 
+This branch contains the code that was used to web scrape the NBA 2023-2024 season data off the interent through Selenium. It also contains code that edits the season csv file creating factors like ELO, rolling averages, and form to increase the accuracy score through value predictors. 
 
 ## Model Testing
 
